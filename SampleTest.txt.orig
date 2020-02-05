@@ -1,4 +1,9 @@
 This is a sample file line1
 This is a sample file line2
 This is a sample file line3
+
+<<<<<<< HEAD
+Line from hotfix branch
+=======
 Line from develop branch
+>>>>>>> develop
